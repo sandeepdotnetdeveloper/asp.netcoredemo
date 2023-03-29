@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Asp.netcore/.vs/Asp.netcore/v16
+/Asp.netcore/bin/Debug/netcoreapp3.1
+/Asp.netcore/obj
+*.sln
+/Asp.netcore/Asp.netcore.csproj
