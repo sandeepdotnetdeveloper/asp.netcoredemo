@@ -8,3 +8,4 @@
 /Asp.netcore/obj
 *.sln
 /Asp.netcore/Asp.netcore.csproj
+/Asp.netcore/.vs/Asp.netcore/config
